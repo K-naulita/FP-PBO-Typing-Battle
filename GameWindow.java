@@ -22,7 +22,7 @@ public class GameWindow extends JFrame {
     private BattleManager battleManager;
 
     public GameWindow() {
-        super("Typing Battle - Gaming Theme");
+        super("Typing Battle");
 
         battleManager = new BattleManager(this);
 

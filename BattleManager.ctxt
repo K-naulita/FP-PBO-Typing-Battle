@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=BattleManager
+comment0.text=\r\n\ BattleManager.java\r\n\ Game\ logic\ with\ 5-second\ timer,\ per-round\ scoring,\r\n\ correct\ ->\ +10\ points,\ wrong/timeout\ ->\ -10\ points.\r\n\ Bot\ damage\ when\ player\ correct\ is\ 10\ (updated).\r\n
+comment1.params=gui
+comment1.target=BattleManager(GameWindow)
+comment10.params=
+comment10.target=boolean\ checkEndCondition()
+comment2.params=
+comment2.target=void\ resetValues()
+comment3.params=
+comment3.target=ScoreManager\ getScoreManager()
+comment4.params=
+comment4.target=void\ startNewGame()
+comment5.params=
+comment5.target=void\ resetGame()
+comment6.params=
+comment6.target=void\ startCountdownBeforeFirstRound()
+comment7.params=
+comment7.target=void\ nextRound()
+comment8.params=guess
+comment8.target=void\ submitGuess(java.lang.String)
+comment9.params=
+comment9.target=void\ timeExpired()
+numComments=11

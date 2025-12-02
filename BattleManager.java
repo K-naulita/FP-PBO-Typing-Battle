@@ -131,7 +131,7 @@ public class BattleManager {
 
         if (exact && duration <= ROUND_TIME_SECONDS) {
             botHP -= BOT_DAMAGE;
-            score += 20;
+            score += 10;
             gui.showMessage(String.format("Perfect! %.2f s — Bot -%d HP", duration, BOT_DAMAGE));
         } else if (exact) {
             playerHP -= PLAYER_DAMAGE;

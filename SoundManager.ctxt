@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\r\n\ SoundManager.java\r\n\ Loads\ and\ plays\ only\ BGM\ (bgm.wav)\ in\ working\ directory.\r\n\ Correct/wrong\ sound\ methods\ are\ intentionally\ no-ops.\r\n
+comment1.params=
+comment1.target=SoundManager()
+comment2.params=filename
+comment2.target=javax.sound.sampled.Clip\ loadClip(java.lang.String)
+comment3.params=
+comment3.target=void\ playCorrect()
+comment4.params=
+comment4.target=void\ playWrong()
+comment5.params=
+comment5.target=void\ playBgmLoop()
+comment6.params=
+comment6.target=void\ stopBgm()
+numComments=7

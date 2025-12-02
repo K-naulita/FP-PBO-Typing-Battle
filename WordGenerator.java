@@ -6,17 +6,7 @@ import java.util.Random;
  */
 public class WordGenerator {
     private String[] words = {
-        "asymptotic", "nebulous", "xenophobia", "cryptogram", "juxtaposition",
-        "synchronization", "juxtapose", "antidisestablishmentarianism", "ephemeral",
-        "serendipity", "quintessential", "obfuscation", "idiosyncratic", "inconsequential",
-        "metamorphosis", "labyrinthine", "anachronistic", "circuitous", "ubiquitous",
-        "pellucid", "diaphanous", "perspicacious", "grandiloquent", "magnanimous",
-        "vicissitude", "sesquipedalian", "hyperbolic", "transmogrify", "phosphorescent",
-        "ransomware", "pseudocode", "hypervelocity", "numbermix", "xenogram",
-        "characterization", "institutionalization", "misinterpretation", "photosynthesis",
-        "electroencephalogram", "counterintuitive", "computationally", "neuroplasticity",
-        "sphinx", "rhythms", "mnemonic", "cwm", "lynx", "gypsum",
-        "cooperate", "enter", "stateoftheart", "rocknroll"
+        "hai", "neb", "xeno", "cryp", "juya"
     };
 
     private Random rand = new Random();

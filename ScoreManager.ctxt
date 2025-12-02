@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ScoreManager
+comment0.text=\r\n\ ScoreManager.java\r\n\ Handles\ read/write\ of\ highscore\ to\ "highscore.txt"\r\n
+comment1.params=
+comment1.target=int\ loadHighScore()
+comment2.params=score
+comment2.target=void\ saveHighScore(int)
+numComments=3
